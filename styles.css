@@ -1,0 +1,37 @@
+.parent{
+   width: auto;
+   height:500px;
+   display: flex;
+   margin: auto;
+   justify-content: space-around;
+   align-items: center;
+   background-color: rgb(193, 234, 212);
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    padding-top:10px;
+}
+.child{
+   text-align: center;
+   background-color:rgb(236, 226, 176);
+   width:300px;
+   height:400px;
+   border-radius: 10px;
+}
+.logo{
+   width:40px;
+   height:40px;
+   border-radius: 20px;
+   padding: 20px;;
+}
+p{
+   font-size: 1rem;
+}
+h2{
+   padding:10px;
+}
+h3{
+   padding: 10px;
+}
